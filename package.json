@@ -2,7 +2,9 @@
   "name": "bionic-chat-bot",
   "version": "0.1.0",
   "private": true,
+  "author": "Alex Pilugin",
   "scripts": {
+    "start": "vue-cli-service serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },

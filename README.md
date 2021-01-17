@@ -1,5 +1,7 @@
 # bionic-chat-bot
 
+Created by Alex Pilugin
+
 ## Project setup
 ```
 npm install
@@ -7,7 +9,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm start
 ```
 
 ### Compiles and minifies for production
