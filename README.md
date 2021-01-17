@@ -1,6 +1,7 @@
 # bionic-chat-bot
 
-Created by Alex Pilugin
+Created by Alex Pilugin.     
+This application doesn't use any framework except [Vue CLI](https://cli.vuejs.org/guide/creating-a-project.html).
 
 ## Project setup
 ```
