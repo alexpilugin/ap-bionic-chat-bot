@@ -3,6 +3,9 @@
 Created by Alex Pilugin.     
 This application doesn't use any framework except [Vue CLI](https://cli.vuejs.org/guide/creating-a-project.html).
 
+## Demo
+[https://alexpilugin.github.io/ap-bionic-chat-bot/](https://alexpilugin.github.io/ap-bionic-chat-bot/)
+
 ## Project setup
 ```
 npm install
