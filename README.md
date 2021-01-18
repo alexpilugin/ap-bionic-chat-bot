@@ -20,3 +20,7 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Screenshot
+
+![screenshot.png](https://github.com/alexpilugin/ap-bionic-chat-bot/blob/master/git-images/Bionics-chat-bot-screenshot.png "screenshot.png")

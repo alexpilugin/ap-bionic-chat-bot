@@ -31,7 +31,7 @@
                 </div>
                 <div class="message-time">{{ frase.time }}</div>
               </div>
-              
+
             </li>
           </ul>
         </div>
@@ -141,7 +141,7 @@ export default {
   background-color: #f7f8f9;
 }
 .chat-container {
-  height: 400px;
+  height: 500px;
   overflow-y: scroll;
   padding-right: 16px;
 }
