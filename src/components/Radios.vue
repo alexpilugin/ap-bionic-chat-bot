@@ -65,6 +65,11 @@ export default {
 .radios {
   width: 260px;
 }
+@media only screen and (max-width: 800px) {
+  .radios {
+    width: 50vw;
+  }
+}
 .radios label {
   padding-left: 40px;
 }

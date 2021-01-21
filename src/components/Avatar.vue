@@ -35,15 +35,18 @@ export default {
 
 <style scoped>
 .avatar {
+  display: flex; /* or inline-flex */
+  align-items: center; 
+  justify-content: center;
   border-radius: 50%;
   text-align: center;
   font-size: 1rem;
   padding: 0.65rem;
+  margin: 5px;
   width: 40px;
   height: 40px;
   background: #C8EDFD;
   color: #1c204e; 
-  margin: 0px 8px; 
 }
 .avatar.second {
   background: #1c204e;
